@@ -5,3 +5,5 @@ their own. The live codind example shows how you can quickly make a neural netwo
 using Mariana's default trainer. Using the trainer ensures that the model is saved in case of a crash, that the best models are
 saved for test and/or validation sets. It also allows for the use of dataset mappers that take care of things such as 
 oversampling, and recorders that generate and print reports during training.
+
+To run the example you will need an internet connection to download the mnist dataset.
