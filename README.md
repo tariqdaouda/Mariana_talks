@@ -8,3 +8,7 @@ Thanks for your interest in Mariana, star it if you like it!
 Cheers,
 
 Tariq
+
+##Talks on YouTube:
+[At the MILA Lab, english](https://youtu.be/dGS_Qny1E9E)
+[ML Paris, french](https://youtu.be/TzRYF1lPP84?t=8m15s)
